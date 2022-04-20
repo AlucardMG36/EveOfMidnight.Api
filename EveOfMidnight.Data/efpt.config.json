@@ -1,0 +1,171 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "EveofmidnightContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "Contexts",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "EveOfMidnight.Data",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Abilities]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AbilityLevel]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Beastiary]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Bound]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CharacterDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Classes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Components]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DamageTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Diseases]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Fates]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Focus]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Foods]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Items]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ItemSubTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ItemTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MagicSchools]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Metals]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PlayerAbilities]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PlayerCharacters]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PlayerMagicSchools]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PlayerSkills]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PlayerSpells]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PlayerTraits]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Races]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RaceSkills]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RaceTraits]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Rarities]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Skills]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SpellRanks]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Spells]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[StatusEffects]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TraitCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Traits]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Woods]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-8U2LRVO.EveOfMidnight",
+   "UseBoolPropertiesWithoutDefaultSql": true,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": true,
+   "UseManyToManyEntity": true,
+   "UseNoConstructor": true,
+   "UseNoDefaultConstructor": true,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}

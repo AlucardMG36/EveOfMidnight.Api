@@ -1,0 +1,9 @@
+﻿global using EveOfMidnight.Data.Extensions;
+global using EveOfMidnight.Mediator.Extensions;
+global using EveOfMidnight.Mediator.Queries;
+global using Serilog;
+global using Serilog.AspNetCore;
+global using Serilog.Configuration;
+global using Serilog.Events;
+global using Serilog.Extensions;
+global using System.Net.Mime;
